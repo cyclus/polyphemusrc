@@ -1,5 +1,5 @@
-server_name = server_url = 'cyclus-ci.fuelcycle.org'
-port = 80
+appname = server_name = server_url = 'cyclus-ci.fuelcycle.org'
+port = 8080
 
 github_owner = 'cyclus'
 github_repo = 'cyclus'
