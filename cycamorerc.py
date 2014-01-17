@@ -13,7 +13,7 @@ batlab_scripts_url = 'https://github.com/cyclus/ciclus/archive/master.zip'
 batlab_fetch_file = 'fetch/cycamore.git'
 batlab_run_spec = 'cycamore.fast.run-spec'
 batlab_submit_cmd = './submit.sh'
-batlab_jobs_cache = '/var/www/cyclus-ci.fuelcycle.org/jobs.cache'
+batlab_jobs_cache = '/var/www/cycamore-ci.fuelcycle.org/jobs.cache'
 
 # Apache settings
 log_dir = '/root/polyphemusrc'
