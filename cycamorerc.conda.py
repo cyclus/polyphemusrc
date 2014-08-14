@@ -9,7 +9,7 @@ github_credentials = '/root/polyphemusrc/gh.cred'
 
 # BaTLab setting
 batlab_user = 'cyclusci'
-batlab_scripts_url = 'https://github.com/cyclus/ciclus/archive/master.zip'
+batlab_scripts_url = 'https://github.com/cyclus/ciclus/archive/conda.zip'
 batlab_fetch_file = 'fetch/cycamore.git'
 batlab_run_spec = 'cycamore.fast.run-spec'
 batlab_submit_cmd = './submit.sh'
