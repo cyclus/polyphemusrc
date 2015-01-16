@@ -5,7 +5,7 @@ port = 80
 github_owner = 'cyclus'
 github_repo = 'cyclus'
 github_user = 'cyclus-ci'
-github_credentials = '/root/polyphemusrc/gh.cred'
+github_credentials = '/root/cyclusrc/gh.cred'
 
 # BaTLab setting
 batlab_user = 'cyclusci'
@@ -16,4 +16,4 @@ batlab_submit_cmd = './submit.sh'
 batlab_jobs_cache = '/var/www/cyclus-ci.fuelcycle.org/jobs.cache'
 
 # Apache settings
-log_dir = '/root/polyphemusrc'
+log_dir = '/root/cyclusrc'
